@@ -1,1 +1,1 @@
-# revisoes_estudos
+# revisoes-estudos
